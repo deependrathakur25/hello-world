@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
-    <body style="background-color:#33475b">
+    <body style="background-color:#e70f49">
 
     <hr>
     
